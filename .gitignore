@@ -43,3 +43,6 @@ sitemap*.xml
 *.tsbuildinfo
 /.env
 .env.vercelcommerce.local
+
+# settings
+.vscode/settings.json
